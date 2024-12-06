@@ -6,7 +6,7 @@ This project demonstrates the use of Deep Learning to classify breast cancer cas
 
 🛠️ Tools and Technologies
 
-Python
+Python 
 TensorFlow
 Pandas
 Matplotlib
